@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+.env
+venv/
+.env/
+.vscode/
+.idea/
+*.egg-info/
+*.dist-info/
+# OS files
+Thumbs.db
+ehthumbs.db
+
+# Editor backups
+*~
+# Logs
+*.log
